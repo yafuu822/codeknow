@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+/*------------------------------------------------------------------------------
+Date: 2017-06-09
+Copyright (C) life-support All Rights Reserved.
+------------------------------------------------------------------------------*/
+
+
+/* ----------------------------------------
+
+header Layout
+
+---------------------------------------- */
+
+.red{
+    color:red;
+}
+
+.topnav {
+    margin-top: 6px;
+    width: 918px;
+    height:30px;
+}
+
+.topnav li {
+    float: left;
+}
+
+.topnav ul li a {
+    float: left;
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav ul li a:hover {
+    background-color: silver;
+    color: gray;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+
+
+
